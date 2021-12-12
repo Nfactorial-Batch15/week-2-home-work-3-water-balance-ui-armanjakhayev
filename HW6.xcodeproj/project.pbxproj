@@ -11,6 +11,18 @@
 		C21B26272765406200CA4BE1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21B26262765406200CA4BE1 /* ContentView.swift */; };
 		C21B26292765406600CA4BE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C21B26282765406600CA4BE1 /* Assets.xcassets */; };
 		C21B262C2765406600CA4BE1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C21B262B2765406600CA4BE1 /* Preview Assets.xcassets */; };
+		C21B263527655F5E00CA4BE1 /* Screen2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21B263427655F5E00CA4BE1 /* Screen2.swift */; };
+		C21B2637276564A600CA4BE1 /* Screen3.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21B2636276564A600CA4BE1 /* Screen3.swift */; };
+		C21B2639276577A200CA4BE1 /* Screen4and6and7.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21B2638276577A200CA4BE1 /* Screen4and6and7.swift */; };
+		C21B263B2765873700CA4BE1 /* ScreenAddFirst.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21B263A2765873700CA4BE1 /* ScreenAddFirst.swift */; };
+		C21B263D276587D100CA4BE1 /* ScreenHistory.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21B263C276587D100CA4BE1 /* ScreenHistory.swift */; };
+		C21B263F27658B3400CA4BE1 /* ScreenSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21B263E27658B3400CA4BE1 /* ScreenSettings.swift */; };
+		C21B26412765920800CA4BE1 /* Screen5.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21B26402765920800CA4BE1 /* Screen5.swift */; };
+		C21B26432765924F00CA4BE1 /* ScreenGreatJob.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21B26422765924F00CA4BE1 /* ScreenGreatJob.swift */; };
+		C21B26452765934D00CA4BE1 /* Screen8.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21B26442765934C00CA4BE1 /* Screen8.swift */; };
+		C21B26472765984600CA4BE1 /* Screen9.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21B26462765984600CA4BE1 /* Screen9.swift */; };
+		C21B2649276599A100CA4BE1 /* Screen10.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21B2648276599A100CA4BE1 /* Screen10.swift */; };
+		C21B264B2765F78900CA4BE1 /* ScreenOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21B264A2765F78900CA4BE1 /* ScreenOne.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,18 @@
 		C21B26262765406200CA4BE1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C21B26282765406600CA4BE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C21B262B2765406600CA4BE1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C21B263427655F5E00CA4BE1 /* Screen2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen2.swift; sourceTree = "<group>"; };
+		C21B2636276564A600CA4BE1 /* Screen3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen3.swift; sourceTree = "<group>"; };
+		C21B2638276577A200CA4BE1 /* Screen4and6and7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen4and6and7.swift; sourceTree = "<group>"; };
+		C21B263A2765873700CA4BE1 /* ScreenAddFirst.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenAddFirst.swift; sourceTree = "<group>"; };
+		C21B263C276587D100CA4BE1 /* ScreenHistory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenHistory.swift; sourceTree = "<group>"; };
+		C21B263E27658B3400CA4BE1 /* ScreenSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenSettings.swift; sourceTree = "<group>"; };
+		C21B26402765920800CA4BE1 /* Screen5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen5.swift; sourceTree = "<group>"; };
+		C21B26422765924F00CA4BE1 /* ScreenGreatJob.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenGreatJob.swift; sourceTree = "<group>"; };
+		C21B26442765934C00CA4BE1 /* Screen8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen8.swift; sourceTree = "<group>"; };
+		C21B26462765984600CA4BE1 /* Screen9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen9.swift; sourceTree = "<group>"; };
+		C21B2648276599A100CA4BE1 /* Screen10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen10.swift; sourceTree = "<group>"; };
+		C21B264A2765F78900CA4BE1 /* ScreenOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenOne.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +77,18 @@
 			children = (
 				C21B26242765406200CA4BE1 /* HW6App.swift */,
 				C21B26262765406200CA4BE1 /* ContentView.swift */,
+				C21B264A2765F78900CA4BE1 /* ScreenOne.swift */,
+				C21B263427655F5E00CA4BE1 /* Screen2.swift */,
+				C21B2636276564A600CA4BE1 /* Screen3.swift */,
+				C21B263A2765873700CA4BE1 /* ScreenAddFirst.swift */,
+				C21B263C276587D100CA4BE1 /* ScreenHistory.swift */,
+				C21B263E27658B3400CA4BE1 /* ScreenSettings.swift */,
+				C21B2638276577A200CA4BE1 /* Screen4and6and7.swift */,
+				C21B26422765924F00CA4BE1 /* ScreenGreatJob.swift */,
+				C21B26402765920800CA4BE1 /* Screen5.swift */,
+				C21B26442765934C00CA4BE1 /* Screen8.swift */,
+				C21B26462765984600CA4BE1 /* Screen9.swift */,
+				C21B2648276599A100CA4BE1 /* Screen10.swift */,
 				C21B26282765406600CA4BE1 /* Assets.xcassets */,
 				C21B262A2765406600CA4BE1 /* Preview Content */,
 			);
@@ -137,7 +173,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C21B26452765934D00CA4BE1 /* Screen8.swift in Sources */,
+				C21B263D276587D100CA4BE1 /* ScreenHistory.swift in Sources */,
+				C21B26412765920800CA4BE1 /* Screen5.swift in Sources */,
+				C21B263F27658B3400CA4BE1 /* ScreenSettings.swift in Sources */,
+				C21B2649276599A100CA4BE1 /* Screen10.swift in Sources */,
+				C21B2639276577A200CA4BE1 /* Screen4and6and7.swift in Sources */,
+				C21B2637276564A600CA4BE1 /* Screen3.swift in Sources */,
+				C21B26472765984600CA4BE1 /* Screen9.swift in Sources */,
 				C21B26272765406200CA4BE1 /* ContentView.swift in Sources */,
+				C21B263B2765873700CA4BE1 /* ScreenAddFirst.swift in Sources */,
+				C21B26432765924F00CA4BE1 /* ScreenGreatJob.swift in Sources */,
+				C21B264B2765F78900CA4BE1 /* ScreenOne.swift in Sources */,
+				C21B263527655F5E00CA4BE1 /* Screen2.swift in Sources */,
 				C21B26252765406200CA4BE1 /* HW6App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
